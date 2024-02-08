@@ -1,4 +1,4 @@
-
+Default Text = Bunu bulamadım, lütfen daha sonra tekrar deneyin.
 Hp Laserjet Pro P1100 = 285A / 435A / 436A
 Hp Laserjet Pro P1102 = 285A / 435A / 436A
 Hp Laserjet Pro P1102w = 285A / 435A / 436A
@@ -30,7 +30,6 @@ Hp Laserjet M1120n mfp = 285A / 435A / 436A
 Hp Laserjet M1522 mfp = 285A / 435A / 436A
 Hp Laserjet M1522n mfp = 285A / 435A / 436A
 Hp Laserjet M1522nf mfp = 285A / 435A / 436A
-
 Samsung ML-1610 = SAMSUNG 1610 / SCX 4521 / XEROX 3117
 Samsung ML-1615 = SAMSUNG 1615 / SCX 4521 / XEROX 3117
 Samsung SCX-4321 = SAMSUNG 4321 / SCX 4521 / XEROX 3117
@@ -50,8 +49,6 @@ Xerox Phaser 3122 = XEROX 3122 / SCX 4521 / XEROX 3117
 Xerox Phaser 3124 = XEROX 3124 / SCX 4521 / XEROX 3117
 Xerox Phaser 3124b = XEROX 3124b / SCX 4521 / XEROX 3117
 Xerox Phaser 3125 = XEROX 3125 / SCX 4521 / XEROX 3117
-
-
 Samsung Xpress SL-M2020 = MLT D-111
 Samsung Xpress SL-M2020W = MLT D-111
 Samsung Xpress SL-M2022 = MLT D-111
